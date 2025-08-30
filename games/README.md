@@ -163,7 +163,7 @@ $ python project_name.py
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <enricorinaudo91@gmail.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:
@@ -187,7 +187,7 @@ These projects are distributed under the MIT License. See [`LICENSE.txt`][licens
 [license-shield]: https://img.shields.io/github/license/E-Rinaudo/first-solo-projects.svg?style=flat
 [license-url]: https://github.com/E-Rinaudo/first-solo-projects/blob/main/LICENSE.txt
 [Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white
-[Gmail-url]: mailto:enricorinaudo91@gmail.com
+[Gmail-url]: mailto:erinaudo.gh@w.ernode.com
 
 <!-- BADGES -->
 [Python-badge]: https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=flat
