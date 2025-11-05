@@ -1,7 +1,7 @@
 # Alien Invasion
 
 [![MIT License][license-shield]][license-url]
-[![Gmail][Gmail-shield]][Gmail-url]
+[![ProtonMail][ProtonMail-shield]][ProtonMail-url]
 
 **Alien Invasion** is an arcade-style game where you pilot a spaceship to defend against waves of descending alien invaders. Your mission is to shoot down all the aliens before they reach the bottom of the screen. Aim for the highest score in this classic space shooter.
 
@@ -218,8 +218,8 @@ These projects are distributed under the MIT License. See [`LICENSE.txt`][licens
 <!-- SHIELDS -->
 [license-shield]: https://img.shields.io/github/license/E-Rinaudo/first-solo-projects.svg?style=flat
 [license-url]: https://github.com/E-Rinaudo/first-solo-projects/blob/main/LICENSE.txt
-[Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white
-[Gmail-url]: mailto:erinaudo.gh@w.ernode.com
+[ProtonMail-shield]: https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff
+[ProtonMail-url]: mailto:erinaudo.gh@w.ernode.com
 
 <!-- BADGES -->
 [Python-badge]: https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=flat

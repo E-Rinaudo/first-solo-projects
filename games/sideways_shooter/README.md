@@ -1,7 +1,7 @@
 # Sideways Shooter
 
 [![MIT License][license-shield]][license-url]
-[![Gmail][Gmail-shield]][Gmail-url]
+[![ProtonMail][ProtonMail-shield]][ProtonMail-url]
 
 **Sideways Shooter** is a retro-inspired arcade game where you take on the role of a hero battling waves of alien invaders. With varying difficulty levels, your mission is to shoot at enemies while dodging their projectiles. Customize your experience by selecting different difficulty settings, and aim for the highest score.
 
@@ -208,8 +208,8 @@ These projects are distributed under the MIT License. See [`LICENSE.txt`][licens
 <!-- SHIELDS -->
 [license-shield]: https://img.shields.io/github/license/E-Rinaudo/first-solo-projects.svg?style=flat
 [license-url]: https://github.com/E-Rinaudo/first-solo-projects/blob/main/LICENSE.txt
-[Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white
-[Gmail-url]: mailto:erinaudo.gh@w.ernode.com
+[ProtonMail-shield]: https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff
+[ProtonMail-url]: mailto:erinaudo.gh@w.ernode.com
 
 <!-- BADGES -->
 [Python-badge]: https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=flat
