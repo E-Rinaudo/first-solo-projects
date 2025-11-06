@@ -130,7 +130,7 @@ You will be prompted to generate multiple walks, with each new walk visualized i
 
 ### Code Example
 
-This code snippet from molecular_motion_visual.py demonstrates how the MolecularVisual class generates and visualizes the random walk.
+This code snippet from `molecular_motion_visual.py` demonstrates how the MolecularVisual class generates and visualizes the random walk.
 
 ```py
 class MolecularVisual:  # pylint: disable=R0903
@@ -177,7 +177,7 @@ class MolecularVisual:  # pylint: disable=R0903
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

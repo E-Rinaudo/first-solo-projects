@@ -156,7 +156,7 @@ By running this project, users can visualize different aspects of earthquakes ac
 
 ### Code Example
 
-This code snippet from quakes_plotter.py shows how the geographical scatter plot is generated using Plotly.
+This code snippet from `quakes_plotter.py` shows how the geographical scatter plot is generated using Plotly.
 
 ```py
 def plot_quakes(self, quakes_color: str, title_color: Optional[str] = None) -> None:
@@ -177,7 +177,7 @@ def plot_quakes(self, quakes_color: str, title_color: Optional[str] = None) -> N
         fig.show()
 ```
 
-This code snippet from significant_quakes.py shows the use of the EarthquakesPlotter class to analyze and visualize earthquake data:
+This code snippet from `significant_quakes.py` shows the use of the EarthquakesPlotter class to analyze and visualize earthquake data:
 
 ```py
 from pathlib import Path
@@ -202,7 +202,7 @@ if __name__ == "__main__":
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

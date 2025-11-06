@@ -102,7 +102,7 @@ To start a workout session, simply run the script and follow the prompts to ente
 
 ### Code Example
 
-This code snippet from hurricane_clock.py demonstrates how the HurricaneSob class is defined and how it manages the structured interval workout session.
+This code snippet from `hurricane_clock.py` demonstrates how the HurricaneSob class is defined and how it manages the structured interval workout session.
 
 ```py
 class HurricaneSob:  # pylint: disable=R0903
@@ -157,7 +157,7 @@ if __name__ == "__main__":
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

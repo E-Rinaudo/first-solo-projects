@@ -153,7 +153,7 @@ By running the script, users can control the fox using the arrow keys to shoot a
 
 ### Code Example
 
-This code snippet from game_stats.py shows how game statistics are initialized.
+This code snippet from `game_stats.py` shows how game statistics are initialized.
 
 ```py
 class GameStats:
@@ -192,7 +192,7 @@ class GameStats:
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

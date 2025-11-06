@@ -134,7 +134,7 @@ By running the script, users will be able to visualize in their default web brow
 
 ### Code Example
 
-This code snippet from github_python_julia_r_repos.py demonstrates the core functionality of the RepositoryPlotter class. This class is responsible for fetching data from GitHub's API, initializing API URLs, performing API calls, and generating a Plotly bar plot to display the repositories side-by-side for easy comparison.
+This code snippet from `github_python_julia_r_repos.py` demonstrates the core functionality of the RepositoryPlotter class. This class is responsible for fetching data from GitHub's API, initializing API URLs, performing API calls, and generating a Plotly bar plot to display the repositories side-by-side for easy comparison.
 
 ```py
 class RepositoryPlotter:  # pylint: disable=R0903
@@ -185,7 +185,7 @@ class RepositoryPlotter:  # pylint: disable=R0903
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

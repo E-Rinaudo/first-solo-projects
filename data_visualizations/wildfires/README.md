@@ -134,7 +134,7 @@ By running this program, users can generate an interactive map showing wildfire 
 
 ### Code Example
 
-This code snippet from fires_analyzer.py demonstrates how the data is visualized.
+This code snippet from `fires_analyzer.py` demonstrates how the data is visualized.
 
 ```py
 def visualize_plot(self) -> None:
@@ -172,7 +172,7 @@ def visualize_plot(self) -> None:
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

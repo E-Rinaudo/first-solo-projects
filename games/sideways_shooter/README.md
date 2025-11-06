@@ -155,7 +155,7 @@ By running the script, users will be able to experience a retro space shooter ga
 
 ### Code Example
 
-This code snippet from sideways_shooter.py demonstrates how the SidewaysShooter class handles the difficulty selection.
+This code snippet from `sideways_shooter.py` demonstrates how the SidewaysShooter class handles the difficulty selection.
 
 ```py
 def _choose_difficulty(self) -> tuple[bool, bool, bool]:
@@ -185,7 +185,7 @@ def _handle_difficulty_selection(self, easy_clicked: bool, medium_clicked: bool,
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

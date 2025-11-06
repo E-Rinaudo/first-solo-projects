@@ -157,15 +157,15 @@ $ pip install -r requirements.txt
 
 ```bash
 # Run the projects
-$ los_angeles_highs_lows_f.py
-$ madrid_highs_c.py
-$ madrid_highs_f.py
-$ madrid_lows_c.py
-$ madrid_lows_f.py
-$ madrid_rainfall_cm.py
-$ san_francisco_highs_lows_f.py
-$ sitka_death_valley_highs_lows_f.py
-$ sitka_death_valley_rainfall_in.py
+$ python los_angeles_highs_lows_f.py
+$ python madrid_highs_c.py
+$ python madrid_highs_f.py
+$ python madrid_lows_c.py
+$ python madrid_lows_f.py
+$ python madrid_rainfall_cm.py
+$ python san_francisco_highs_lows_f.py
+$ python sitka_death_valley_highs_lows_f.py
+$ python sitka_death_valley_rainfall_in.py
 ```
 
 [back to top](#meteorology-visualizations)
@@ -176,7 +176,7 @@ By running this program, users can visualize various aspects of weather data, in
 
 ### Code Example
 
-This code snippet from weather_data_plotter.py demonstrates the process of generating the visualizations.
+This code snippet from `weather_data_plotter.py` demonstrates the process of generating the visualizations.
 
 ```py
 def plot_visual(
@@ -192,7 +192,7 @@ def plot_visual(
         plt.show()
 ```
 
-This code snippet from madrid_highs_f.py illustrates how to use the WeatherDataPlotter class to generate a plot for Madrid’s high temperatures.
+This code snippet from `madrid_highs_f.py` illustrates how to use the WeatherDataPlotter class to generate a plot for Madrid’s high temperatures.
 
 ```py
 from pathlib import Path
@@ -227,7 +227,7 @@ if __name__ == "__main__":
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

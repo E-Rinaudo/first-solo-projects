@@ -127,7 +127,7 @@ By executing the script, a bar chart will be displayed, showing how often each r
 
 ### Code Example
 
-This code snippet from matplotlib_die_visual.py demonstrates how the DieVisual class is used to create a bar chart of the dice roll results.
+This code snippet from `matplotlib_die_visual.py` demonstrates how the DieVisual class is used to create a bar chart of the dice roll results.
 
 ```py
 class DieVisual:  # pylint: disable=R0903
@@ -169,7 +169,7 @@ class DieVisual:  # pylint: disable=R0903
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

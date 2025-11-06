@@ -129,7 +129,7 @@ By running this program, users can generate an interactive scatter plot showing 
 
 ### Code Example
 
-This code snippet from ff_random_walk_visual.py demonstrates how the FireflyWalk class creates and customizes the plot.
+This code snippet from `ff_random_walk_visual.py` demonstrates how the FireflyWalk class creates and customizes the plot.
 
 ```py
 class FireflyWalk:  # pylint: disable=R0903
@@ -178,7 +178,7 @@ class FireflyWalk:  # pylint: disable=R0903
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:

@@ -102,7 +102,7 @@ For convenience, consider creating a terminal alias to run the script automatica
 
 ### Code Example
 
-This code snippet from study_schedule.py demonstrates how the weekly schedule is defined.
+This code snippet from `study_schedule.py` demonstrates how the weekly schedule is defined.
 
 ```py
 from pop_up import StudyPopUp
@@ -163,7 +163,7 @@ if __name__ == "__main__":
 
 ## Contact
 
-If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at <erinaudo.gh@w.ernode.com>.
+If you have any questions, feedback, or just want to get in touch, feel free to reach out to me via email at [erinaudo.gh@w.ernode.com](mailto:erinaudo.gh@w.ernode.com).
 Your feedback is appreciated as it helps me to continue improving.
 
 You can also explore my GitHub profile or the project repository for more information:
